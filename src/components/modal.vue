@@ -17,7 +17,8 @@ export default {
 
 <style>
 .modalContainer{
-    background:skyblue;
+    background:#ffff;
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.3);
     position: fixed;
     width: 300px;
     padding: 20px 30px;
